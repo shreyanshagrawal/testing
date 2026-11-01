@@ -16,6 +16,6 @@ jobs:
       - uses: actions/checkout@v4
 
       - name: Run OpenCred Assessment
-        uses: shreyanshagrawal/justAbyte@main
+        uses: shreyanshagrawal/justAbyte@v1
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
