@@ -1,2 +1,3 @@
 # OpenCred Trust Manifest
--shreyanshagrawal Repeated untrusted submissions / flagged contributor
+-akshay26-ui Repeated untrusted submissions / flagged contributor
+shreyanshagrawal Trusted contributor
