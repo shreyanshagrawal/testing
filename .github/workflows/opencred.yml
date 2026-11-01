@@ -11,6 +11,6 @@ jobs:
       contents: read
     steps:
       - uses: actions/checkout@v4
-      - uses: shreyanshagrawal/opencred@v1
+      - uses: shreyanshagrawal/justabyte@v1
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
